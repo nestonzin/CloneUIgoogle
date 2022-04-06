@@ -1,14 +1,14 @@
-<h1 align="center">Waterworks</h1>
+<h1 align="center">UI Google</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/nestonzin/primeiro-site-sozinho" />
   <img alt="Github last commit" src="https://img.shields.io/github/last-commit/nestonzin/primeiro-site-sozinho" />
 </p>
 
-![App Screenshot](blob:https://web.whatsapp.com/1e0f3345-40f9-44c6-8bb3-0294b9b43c62)
+![App Screenshot](https://media.discordapp.net/attachments/360105236234371074/961052462607908864/unknown.png?width=953&height=473)
 
 
-## 🔥 Meu primeiro site sozinho 🔥
+## 🔥 UI Google 🔥
 
 ## 🚀 Technologies 🚀
 
